@@ -1,20 +1,4 @@
-<p align="left">Hello world, I am Letícia, be very welcome</p>
 
-###
-
-<h1 align="left"></h1>
-
-###
-
-<h2 align="left">Back-end developer</h2>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
