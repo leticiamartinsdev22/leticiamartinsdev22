@@ -1,32 +1,68 @@
-<h1 align="center">Hello world, I am Letícia, be very welcome</h1>
+# Bem vindo(a) eu sou Leticia Martins de Almeida 👋
 
-###
+🎓 Estudante de Ciência da Computação  
+🚀 Focada em desenvolvimento de APIs, banco de dados e sistemas escaláveis  
+📚 Atualmente estudando Java, Spring Boot, MySQL, APIs REST, Git e Segurança da Informação  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticiamartinsdev22/leticiamartinsdev22/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticiamartinsdev22/leticiamartinsdev22/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leticiamartinsdev22/leticiamartinsdev22/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 🚀 Tecnologias e Ferramentas
 
-<h1 align="left">Back-end developer</h1>
+- Java
+- Spring Boot
+- MySQL
+- HTML & CSS
+- Git & GitHub
+- Maven
+- APIs REST
+- IntelliJ IDEA
+- VS Code
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-</div>
+## 📌 Sobre mim
 
-###
+Sou estudante de Ciência da Computação apaixonada por tecnologia e desenvolvimento backend.  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+Tenho conhecimentos em criação de APIs REST utilizando Java e Spring Boot, integração com banco de dados MySQL e versionamento com Git/GitHub.
 
-###
+Estou em constante evolução, buscando desenvolver projetos reais que fortaleçam minhas habilidades técnicas e me aproximem de oportunidades na área de tecnologia.
+
+---
+
+## 📂 Projetos em destaque
+
+### 🔹 CRUD API em Java + Spring Boot
+
+Sistema backend desenvolvido com:
+
+- API REST
+- CRUD completo
+- Integração com MySQL
+- Arquitetura em camadas
+- Spring Boot
+- Maven
+
+📌 Objetivo do projeto: praticar desenvolvimento backend moderno utilizando boas práticas de organização e estruturação de APIs.
+
+---
+
+## 📈 Atualmente estudando
+
+- Spring Security & JWT
+- Arquitetura Backend
+- SQL avançado
+- Estruturas de Dados
+- Cybersecurity Fundamentals
+
+---
+
+## 🌐 Contato
+
+- GitHub: https://github.com/leticiamartinsdev22
+- LinkedIn: https://www.linkedin.com/in/leticia-martins-de-almeida-21751b400
+- Portfólio: https://leticiamartinsdev22.github.io/
+
+---
+
+⭐ Sempre buscando aprender, evoluir e construir projetos que gerem impacto real.
